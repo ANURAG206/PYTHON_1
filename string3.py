@@ -1,0 +1,5 @@
+name=input("enter name")
+l=len(name)
+print("first letter:",name[0])
+print("last letter:",name[l-1])
+print("middle letter:",name[l//2])
